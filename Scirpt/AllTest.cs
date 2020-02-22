@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class AllTest : MonoBehaviour {
+    //lalalala
 	//cxh
     public GameObject obj;
     public GameObject target;
