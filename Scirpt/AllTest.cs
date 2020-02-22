@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class AllTest : MonoBehaviour {
-	
+	//cxh
     public GameObject obj;
     public GameObject target;
     [Range(0f,100f)]
