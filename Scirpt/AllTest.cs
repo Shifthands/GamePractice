@@ -3,7 +3,10 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class AllTest : MonoBehaviour {
+<<<<<<< HEAD
 	//cxh
+=======
+>>>>>>> parent of 38eddee... test01_enter
     public GameObject obj;
     public GameObject target;
     [Range(0f,100f)]
